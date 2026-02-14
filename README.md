@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Youssef Tarek</h1>
+<p align="center">Frontend Developer • Self‑taught • Building toward Full Stack</p>
 
-<!--
-**Elysium-X/Elysium-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Elysium-X">
+    <img src="https://img.shields.io/badge/GitHub-Elysium--X-1f2937?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yousseftarekk12/">
+    <img src="https://img.shields.io/badge/LinkedIn-Youssef%20Tarek-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- React • Redux Toolkit • React Query • React Router
+- TypeScript • JavaScript • HTML • CSS • Tailwind
+
+### In Progress
+- Node.js ⏳
+- Next.js ⏳
+
+---
+
+<p align="center">Curious, optimistic, and always shipping.</p>
